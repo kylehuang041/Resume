@@ -52,13 +52,13 @@ Coursework</b>: Information Assurance and Cybersecurity, Data Structures, Algori
 <hr style="background: #0d6288">
 
 <strong><i>Projects</i></strong>
-: * <b>Family Business</b>: Designed and developed a static website for a family business using HTML and CSS. The website offers responsive design using media and flex.
+: * <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
 
 : * <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
 
 : * <b>Restaurant Order Program</b>: Made using Java OOP. It's like ordering a food from a restaurant and after the food order, it would give a receipt and give an option to download it into a txt file.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, binary search, HTML DOM manipulation, local storage, etc.
+: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, binary search, quick sort, HTML DOM manipulation, local storage, etc.
 
 : * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS and imported the JSON file. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
