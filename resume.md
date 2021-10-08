@@ -63,18 +63,21 @@ Coursework</b>: Information Assurance and Cybersecurity, Data Structures, Algori
 : * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS and imported the JSON file. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
 <strong><i>Programming Languages</i></strong>
-: * <b>Java</b>: sorting, reading/writing a file, creating/manipulating
-database, dynamic arrays, linked list, object-oriented programming, etc.
+: * <b>Java</b>: sorting, reading/writing a file, creating/manipulating database, dynamic arrays, etc.
 
 : * <b>HTML</b>: create content, link css and scripts, design outline, etc.
 
 : * <b>CSS</b>: style the content, import fonts, css grid, css flex, and media to acquire responsiveness, etc.
 
-: * <b>JavaScript</b>: HTML DOM Manipulation, OOP, ES6, ES5, linked list, sorting, etc.
+: * <b>JavaScript</b>: HTML DOM Manipulation, OOP, ES6, ES5, JSX
 
-: * <b>Other</b>: basic knowledge of Python.
+: * <b>Other</b>:
+    * basic knowledge of Python
+    * Object-Oriented Programming
 
 <strong><i>Other Skills</i></strong>
+: * <b>Basic Data Structures & Algorithms</b>: bubble sort, selection sort, insertion sort, merge sort, quick sort, array list, linked list
+
 : * <b>build a desktop, repair laptops, troubleshoot, optimize</b>: I built my own desktop, replaced all the parts, fixed my laptop fan by soldering, troubleshooted many problems like black screen, wifi error, non-active trackpad, crash, slow PC, etc.
 
 : * <b>Basic Cybersecurity/IT Fundamentals</b>: malware, cryptography, network protocols, steganography, OSI layer, risk management, etc.
