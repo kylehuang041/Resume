@@ -44,8 +44,8 @@ I am a Sophomore at UWB and my intended major is Computer Science and Software E
 <hr style="background: #0d6288">
 
 <b><i>2020 - Present</i></b>
-: * <strong>Intended Major in Computer Science and Software Engineering: Information Assurance and Cybersecurity (Bachelor), University of Washington - Bothell, School of STEM, Bothell, WA</strong><b>
-Coursework</b>: Information Assurance and Cybersecurity, Data Structures, Algorithms, Management Principles for Computing Professionals, Software Engineering, Network Design and Programming, etc.
+:   <strong>Intended Major in Computer Science and Software Engineering: Information Assurance and Cybersecurity (Bachelor), University of Washington - Bothell, School of STEM, Bothell, WA</strong><b>
+Coursework</b>: Information Assurance and Cybersecurity, Data Structures & Algorithms, Management Principles for Computing Professionals, Software Engineering, Network Design and Programming, etc.
 
 ### Technical Experience
 
@@ -56,33 +56,20 @@ Coursework</b>: Information Assurance and Cybersecurity, Data Structures, Algori
 
 : * <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
 
-: * <b>Restaurant Order Program</b>: Made using Java OOP. It's like ordering a food from a restaurant and after the food order, it would give a receipt and give an option to download it into a txt file.
+: * <b>Restaurant Order Program</b>: Made using Java, It is like ordering food from a restaurant and after the food order, it would give a receipt. Also has the option to download it.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, binary search, quick sort, HTML DOM manipulation, local storage, etc.
+: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, binary search, quick sort, HTML DOM manipulation, local storage, etc.
 
-: * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS and imported the JSON file. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
+: * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS of the contents and responsiveness. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
 <strong><i>Programming Languages</i></strong>
-: * <b>Java</b>: sorting, reading/writing a file, creating/manipulating database, dynamic arrays, etc.
+:   Java, HTML, CSS, JavaScript, basic knowledge of Python
 
-: * <b>HTML</b>: create content, link css and scripts, design outline, etc.
+<strong><i>Operating Systems</i></strong>
+:   Windows.
 
-: * <b>CSS</b>: style the content, import fonts, css grid, css flex, and media to acquire responsiveness, etc.
-
-: * <b>JavaScript</b>: HTML DOM Manipulation, OOP, ES6, ES5, JSX
-
-: * <b>Other</b>:
-    * basic knowledge of Python
-    * Object-Oriented Programming
-
-<strong><i>Other Skills</i></strong>
-: * <b>Basic Data Structures & Algorithms</b>: bubble sort, selection sort, insertion sort, merge sort, quick sort, array list, linked list
-
-: * <b>build a desktop, repair laptops, troubleshoot, optimize</b>: I built my own desktop, replaced all the parts, fixed my laptop fan by soldering, troubleshooted many problems like black screen, wifi error, non-active trackpad, crash, slow PC, etc.
-
-: * <b>Basic Cybersecurity/IT Fundamentals</b>: malware, cryptography, network protocols, steganography, OSI layer, risk management, etc.
-
-: * <b>Basic Fundamentals</b>: Windows and Linux.
+<strong><i>IDE</i></strong>
+:   MS Visual Studio Code
 
 ### Certifications and Licenses
 
@@ -90,3 +77,9 @@ Coursework</b>: Information Assurance and Cybersecurity, Data Structures, Algori
 
 September 2020
 : Responsive Web Design (freeCodeCamp)
+
+### Soft Skills
+
+<hr style="background: #0d6288">
+
+Communication, Flexibility, Collaboration
