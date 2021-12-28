@@ -10,6 +10,7 @@
         <div style="display: flex; flex-direction: column; width: 100%; height: 100%;">
             <span>&#9742; &ensp;<b>Phone</b>: (425)-589-1578</span>
             <span>&#9993;&ensp; <b>Email</b>: sharquan3@gmail.com</span>
+            <span>
         </div>
     </div>
     <div style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; padding: 10px 20px;">
@@ -32,26 +33,23 @@
             </div>
         </div>
     </div>
-
 </div>
 
-I am a Sophomore at UWB and my intended major is Computer Science and Software Engineering: Information Assurance and Cybersecurity. I'm interested in programming, networking, and cybersecurity.
-
-</div>
+Student at University of Washington Bothell passionate about programming and cybersecurity. 
 
 ### Education
 
 <hr style="background: #0d6288">
 
 <b><i>2020 - Present</i></b>
-:   <strong>Intended Major in Computer Science and Software Engineering: Information Assurance and Cybersecurity (Bachelor), University of Washington - Bothell, School of STEM, Bothell, WA</strong><b>
-Coursework</b>: Information Assurance and Cybersecurity, Data Structures & Algorithms, Management Principles for Computing Professionals, Software Engineering, Network Design and Programming, etc.
+: <strong>Intended Major in Computer Science and Software Engineering: Information Assurance and Cybersecurity (Bachelor), University of Washington - Bothell</strong>
 
 ### Technical Experience
 
 <hr style="background: #0d6288">
 
 <strong><i>Projects</i></strong>
+
 : * <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
 
 : * <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
@@ -60,26 +58,30 @@ Coursework</b>: Information Assurance and Cybersecurity, Data Structures & Algor
 
 : * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, binary search, quick sort, HTML DOM manipulation, local storage, etc.
 
+: * <b>Calculator</b>: Made using Java GUI. It calculates from left to right with no order of operations.
+
 : * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS of the contents and responsiveness. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
-<strong><i>Programming Languages</i></strong>
-:   Java, HTML, CSS, JavaScript, basic knowledge of Python
-
-<strong><i>Operating Systems</i></strong>
-:   Windows.
-
-<strong><i>IDE</i></strong>
-:   MS Visual Studio Code
-
-### Certifications and Licenses
+### Certificates
 
 <hr style="background: #0d6288">
 
 September 2020
-: Responsive Web Design (freeCodeCamp)
+: * Responsive Web Design (freeCodeCamp)
 
-### Soft Skills
+Autumn 2021
+: * Learnng React.js
+
+: * Excel 2016: Introduction to Formulas and Functions
+
+: * Excel Essential Training (Office 365/Microsoft 365)
+
+### Skills
 
 <hr style="background: #0d6288">
 
-Communication, Flexibility, Collaboration
+<strong><i>Hard</i></strong>
+: Java, HTML, CSS, JavaScript, Excel, ReactJS (basic), Python, (basic)
+
+<strong><i>Soft</i></strong>
+: Communication, Flexibility, Collaboration
