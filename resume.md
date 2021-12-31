@@ -21,12 +21,11 @@
                 <a href="https://sharquan3.github.io/Portfolio/">Portfolio</a><br>
                 <a href="https://github.com/sharquan3">GitHub</a><br>
                 <a href="https://www.linkedin.com/in/kyle-huang-9492811ba/">LinkedIn</a><br>
-                <a href="https://www.freecodecamp.org/certification/sharquan3/responsive-web-design">RWD Certificate</a><br>
+                <a href="https://freecodecamp.org/sharquan3">freeCodeCamp</a><br>
                 <a href="https://tiffanylashandspa.github.io/Tiffany/">Family Business</a><br>
             </div>
             <div style="width: 100%; height: 100%;">
                 <a href="https://devpost.com/software/university-of-washington-course-evaluation-catalog">UWB Hackathon 2021</a><br>
-                <a href="https://freecodecamp.org/sharquan3">freeCodeCamp</a><br>
                 <a href="https://tryhackme.com/p/sharquan3">TryHackMe</a><br>
                 <a href="https://my.indeed.com/p/kyleh-r7behmb">Indeed</a><br>
                 <a href="https://codepen.io/your-work">CodePen</a><br>
@@ -35,7 +34,7 @@
     </div>
 </div>
 
-Student at University of Washington Bothell passionate about programming and cybersecurity. 
+Student at University of Washington Bothell passionate about programming and cybersecurity.
 
 ### Education
 
@@ -50,31 +49,33 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 <strong><i>Projects</i></strong>
 
-: * <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
+: \* <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
 
-: * <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
+: \* <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
 
-: * <b>Restaurant Order Program</b>: Made using Java, It is like ordering food from a restaurant and after the food order, it would give a receipt. Also has the option to download it.
+: \* <b>Restaurant Order Program</b>: Made using Java, It is like ordering food from a restaurant and after the food order, it would give a receipt. Also has the option to download it.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, binary search, quick sort, HTML DOM manipulation, local storage, etc.
+: \* <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, binary search, quick sort, HTML DOM manipulation, local storage, etc.
 
-: * <b>Calculator</b>: Made using Java GUI. It calculates from left to right with no order of operations.
+: \* <b>Calculator</b>: Made using Java GUI. It calculates from left to right with no order of operations.
 
-: * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS of the contents and responsiveness. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
+: \* <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS of the contents and responsiveness. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
 ### Certificates
 
 <hr style="background: #0d6288">
 
 September 2020
-: * Responsive Web Design (freeCodeCamp)
+: \* Responsive Web Design (freeCodeCamp)
 
-Autumn 2021
-: * Learnng React.js
+September 2021
+: \* Excel 2016: Introduction to Formulas and Functions (LinkedIn Learning)
 
-: * Excel 2016: Introduction to Formulas and Functions
+: \* Excel Essential Training (Office 365/Microsoft 365, LinkedIn Learning)
 
-: * Excel Essential Training (Office 365/Microsoft 365)
+December 2021
+: _ Learning React.js (LinkedIn Learning)
+: _ JavaScript Algorithms and Data Structures (freeCodeCamp)
 
 ### Skills
 
