@@ -68,7 +68,7 @@ Student at University of Washington Bothell passionate about programming and cyb
 September 2020
 : * Responsive Web Design (freeCodeCamp)
 
-September 2021
+October 2021
 : * Excel 2016: Introduction to Formulas and Functions (LinkedIn Learning)
 
 : * Excel Essential Training (Office 365/Microsoft 365, LinkedIn Learning)
@@ -83,7 +83,7 @@ December 2021
 <hr style="background: #0d6288">
 
 <strong><i>Hard</i></strong>
-: Java, HTML, CSS, JavaScript, Excel, ReactJS (basic), Python, (basic)
+: Java, HTML, CSS, JavaScript, Excel
 
 <strong><i>Soft</i></strong>
 : Communication, Flexibility, Collaboration
