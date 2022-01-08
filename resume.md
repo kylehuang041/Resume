@@ -55,7 +55,7 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 : * <b>Restaurant Order Program</b>: Made using Java, It is like ordering food from a restaurant and after the food order, it would give a receipt. Also has the option to download it.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, binary search, quick sort, HTML DOM manipulation, local storage, etc.
+: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, quick sort, HTML DOM manipulation, local storage, etc.
 
 : * <b>Calculator</b>: Made using Java GUI. It calculates from left to right with no order of operations.
 
