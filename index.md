@@ -51,15 +51,15 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 : * <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
 
-: * <b>Weather API</b>: Created a weather app using API. I used HTML/CSS and JavaScript to fetch API and make changes to the content. It displays the location, temperature, condition, and date.
+: * <b>Weather API</b>: Created a weather app using HTML/CSS and JavaScript to fetch dynamic data to make changes to the content. It displays the location, temperature, condition, and date.
 
-: * <b>Restaurant Order Program</b>: Made using Java, It is like ordering food from a restaurant and after the food order, it would give a receipt. Also has the option to download it.
+: * <b>Restaurant Order Program</b>: Made using Java, It takes in an order, calculates the quantity, total price including tax giving out a receipt with an option to download it.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript. Used pseudo animations, API, quick sort, HTML DOM manipulation, local storage, etc.
+: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript.
 
-: * <b>Calculator</b>: Made using Java GUI. It calculates from left to right with no order of operations.
+: * <b>Calculator</b>: Made using Java GUI. It calculates from left to right without order of operations.
 
-: * <b>UWB Hackathon 2021</b>: we made an alternative of the course catalog of UW. I worked on the HTML/CSS of the contents and responsiveness. Kyle Huynh worked on the javascript for the table. We actually made two versions, one using Figma by Bailey. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
+: * <b>UWB Hackathon 2021</b>: Made an alternative of the course catalog of UW, using HTML/CSS, JavaScript/JQuery, and Figma. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
 
 ### Certificates
 
