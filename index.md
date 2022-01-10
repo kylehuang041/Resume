@@ -49,11 +49,11 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 <strong><i>Projects</i></strong>
 
-: * <b>Family Business</b>: Designed and developed a static website for a family business using HTML, CSS, and JS. The website offers responsive design using media and flex.
+: * <b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML, CSS, and JS.
 
 : * <b>Weather API</b>: Created a weather app using HTML/CSS and JavaScript to fetch dynamic data to make changes to the content. It displays the location, temperature, condition, and date.
 
-: * <b>Restaurant Order Program</b>: Made using Java, It takes in an order, calculates the quantity, total price including tax giving out a receipt with an option to download it.
+: * <b>Restaurant Order Program</b>: Made using Java. It takes in an order, calculates the quantity and total price including tax giving out a receipt with an option to download it.
 
 : * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript.
 
