@@ -49,17 +49,23 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 <strong><i>Projects</i></strong>
 
+: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript.
+
+: * <b>Bank</b>: Made a Bank program using C++. You can create account, sign in, check balance, see account information, deposit, widthdraw, etc.
+
 : * <b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML, CSS, and JS.
 
 : * <b>Weather API</b>: Created a weather app using HTML/CSS and JavaScript to fetch dynamic data to make changes to the content. It displays the location, temperature, condition, and date.
 
 : * <b>Restaurant Order Program</b>: Made using Java. It takes in an order, calculates the quantity and total price including tax giving out a receipt with an option to download it.
 
-: * <b>Portfolio</b>: my portfolio shows my projects, intro about me, contact form, and image gallery of my photos that I've taken. I used HTML/CSS and Javascript.
-
 : * <b>Calculator</b>: Made using Java GUI. It calculates from left to right without order of operations.
 
 : * <b>UWB Hackathon 2021</b>: Made an alternative of the course catalog of UW, using HTML/CSS, JavaScript/JQuery, and Figma. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.
+
+: * <b>FCC Mini HTML/CSS projects</b>: A collection of my mini projects from freeCodeCamp
+
+: * <b>FCC JavaScript projects</b>: A collection of my JavaScript projects that include ROman Numeral Conversion, cash register, palindrome, cipher, and telephone validator from freeCodeCamp.
 
 ### Certificates
 
