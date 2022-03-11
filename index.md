@@ -34,14 +34,14 @@
     </div>
 </div>
 
-Student at University of Washington Bothell passionate about programming and cybersecurity. 
+CS Student at University of Washington Bothell passionate about programming and cybersecurity. 
 
 ### Education
 
 <hr style="background: #0d6288">
 
 <b><i>2020 - Present</i></b>
-: <strong>Intended Major in Computer Science and Software Engineering: Information Assurance and Cybersecurity (Bachelor), University of Washington - Bothell</strong>
+: <strong>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</strong>, <em>University of Washington - Bothell</em>
 
 ### Technical Experience
 
@@ -65,7 +65,7 @@ Student at University of Washington Bothell passionate about programming and cyb
 
 : * <b>FCC Mini HTML/CSS projects</b>: A collection of my mini projects from freeCodeCamp
 
-: * <b>FCC JavaScript projects</b>: A collection of my JavaScript projects that include ROman Numeral Conversion, cash register, palindrome, cipher, and telephone validator from freeCodeCamp.
+: * <b>FCC JavaScript projects</b>: A collection of my JavaScript projects that include Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.
 
 ### Certificates
 
