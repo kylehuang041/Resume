@@ -9,7 +9,7 @@
         <h3 style="text-align: center;">Contact</h3>
         <div style="display: flex; flex-direction: column; width: 100%; height: 100%;">
             <span>&#9742; &ensp;<b>Phone</b>: (425)-589-1578</span>
-            <span>&#9993;&ensp; <b>Email</b>: sharquan3@gmail.com</span>
+            <span>&#9993;&ensp; <b>Email</b>: kylehuang041@gmail.com</span>
             <span>
         </div>
     </div>
@@ -18,15 +18,14 @@
         <div style="display: flex; flex-direction: row; width: 100%;
         height: 100%; padding: 0 20px; justify-content: space-around;">
             <div style="width: 100%; height: 100%;">
-                <a href="https://sharquan3.github.io/Portfolio/">Portfolio</a><br>
-                <a href="https://github.com/sharquan3">GitHub</a><br>
+                <a href="https://kylehuang041.github.io/Portfolio/">Portfolio</a><br>
+                <a href="https://github.com/kylehuang041">GitHub</a><br>
                 <a href="https://www.linkedin.com/in/kyle-huang-9492811ba/">LinkedIn</a><br>
-                <a href="https://freecodecamp.org/sharquan3">freeCodeCamp</a><br>
+                <a href="https://freecodecamp.org/kylehuang041">freeCodeCamp</a><br>
                 <a href="https://tiffanylashandspa.github.io/Tiffany/">Family Business</a><br>
             </div>
             <div style="width: 100%; height: 100%;">
                 <a href="https://devpost.com/software/university-of-washington-course-evaluation-catalog">UWB Hackathon 2021</a><br>
-                <a href="https://tryhackme.com/p/sharquan3">TryHackMe</a><br>
                 <a href="https://my.indeed.com/p/kyleh-r7behmb">Indeed</a><br>
                 <a href="https://codepen.io/your-work">CodePen</a><br>
             </div>
