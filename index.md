@@ -88,7 +88,7 @@ December 2021
 <hr style="background: #0d6288">
 
 <strong><i>Hard</i></strong>
-: Java, HTML, CSS, JavaScript, Excel
+: Java, HTML, CSS, JavaScript, Excel, Git
 
 <strong><i>Soft</i></strong>
 : Communication, Flexibility, Collaboration
