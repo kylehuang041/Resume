@@ -45,7 +45,7 @@
 
 : * <p style="margin-bottom: -15px;"><b>Bank</b>: Made a Bank program using C++ that allows multiple accounts.</p>
 
-: * <p style="margin-bottom: -15px;"><b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML, CSS, and JS.</p>
+: * <p style="margin-bottom: -15px;"><b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML/CSS and JS.</p>
 
 : * <p style="margin-bottom: -15px;"><b>Weather API</b>: Created a weather app using HTML/CSS and JavaScript using openweathermap API.</p>
 
@@ -62,9 +62,11 @@
 #### Certificates
 
 <hr style="background: #0d6288; margin: -15px 0 -10px 0;">
+<!--<hr style="background: #0d6288; margin: -15px 0 0 0;">-->
 
 September 2020
 : * <p style="margin-bottom: -15px;">Responsive Web Design (freeCodeCamp)</p>
+<!--<p style="margin-bottom: -15px;"><b><em>September 2020</em></b>&ensp;Responsive Web Design (freeCodeCamp)</p>-->
 
 October 2021
 : * <p style="margin-bottom: -15px;">Excel 2016: Introduction to Formulas and Functions (LinkedIn Learning)</p>
