@@ -33,7 +33,8 @@
 <hr style="background: #0d6288; margin: -15px 0 -15px 0;">
 
 <b><i>2020 - Present</i></b>
-: <p style="margin: -5px 0 -20px 0"><strong>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</strong>, <em>University of Washington - Bothell</em></p>
+: <p style="margin: -5px 0 -20px 0"><strong>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</strong><br><em>University of Washington - Bothell</em>
+: * Dean's List</p>
 
 #### Technical Experience
 
@@ -43,13 +44,13 @@
 
 : * <p style="margin-bottom: -20px;"><b>Portfolio</b>: has my projects, photo gallery, and contact form using Formspree. I used HTML/CSS and Javascript.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Bank</b>: Made a Bank program using C++ that allows multiple accounts.</p>
+: * <p style="margin-bottom: -20px;"><b>Bank</b>: Made a Bank program using C++ that allows logins of multiple accounts.</p>
 
 : * <p style="margin-bottom: -20px;"><b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML/CSS and JS.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Weather API</b>: Created a weather app using HTML/CSS and JavaScript using openweathermap API.</p>
+: * <p style="margin-bottom: -20px;"><b>Weather API</b>: Created a weather app using HTML/CSS, JavaScript, and openweathermap API.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Restaurant Order Program</b>: Created an Restaurant Order program using Java.</p>
+: * <p style="margin-bottom: -20px;"><b>Restaurant Order Program</b>: Created an Restaurant Order program using Java OOP.</p>
 
 : * <p style="margin-bottom: -20px;"><b>Calculator</b>: Made a calculator using Java GUI that calculates from left to right without order of operations.</p>
 
@@ -80,6 +81,6 @@ December 2021
 #### Skills
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, HTML, CSS, JavaScript, Excel, Git, Linux</p>
+<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, HTML, CSS, JavaScript, Excel, Git, Linux. Some in Python and React.</p>
 
 <p style="margin: 0;"><strong><i>Soft</i></strong>&ensp;Communication, Flexibility, Collaboration</p>
