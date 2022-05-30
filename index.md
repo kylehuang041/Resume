@@ -81,6 +81,5 @@ December 2021
 #### Skills
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, HTML, CSS, JavaScript, Excel, Git, Linux. Some in Python and React.</p>
-
+<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, HTML, CSS, JavaScript, Excel, Git, Linux.
 <p style="margin: 0;"><strong><i>Soft</i></strong>&ensp;Communication, Flexibility, Collaboration</p>
