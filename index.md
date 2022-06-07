@@ -53,7 +53,7 @@
 
 : * <p style="margin-bottom: -20px;"><b>Calculator</b>: Made a calculator using Java GUI that calculates from left to right without order of operations.</p>
 
-: * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021</b>: Made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.</p>
+: * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021</b>: made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. Experienced teamwork with people of different skillsets.</p>
 
 : * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects</b>: includes Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
 
@@ -78,5 +78,5 @@ December 2021
 #### Skills
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, HTML, CSS, JavaScript, Excel, Git, Linux.
+<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, JavaScript, Python (some), HTML, CSS, Excel, Git, Linux.
 <p style="margin: 0;"><strong><i>Soft</i></strong>&ensp;Communication, Flexibility, Collaboration</p>
