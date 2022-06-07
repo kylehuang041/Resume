@@ -7,7 +7,6 @@
 <div width="100%" height="100%" style="display: flex; justify-content: space-evenly; align-center: center;">
     <div style="width: 100%; height: 100%; margin-right: 10px; padding: 5px 0 10px 0;">
         <h4 style="text-align: center;">Contact</h4>
-        <span>&#9742; &ensp;<b>Phone</b>: <em>(425)-589-1578</em></span><br>
         <span>&#9993;&ensp; <b>Email</b>: <em>kylehuang041@gmail.com</em></span>
     </div>
     <div style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; padding: 5px 0;">
@@ -33,8 +32,8 @@
 <hr style="background: #0d6288; margin: -15px 0 -15px 0;">
 
 <b><i>2020 - Present</i></b>
-: <p style="margin: -5px 0 -20px 0"><strong>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</strong><br><em>University of Washington - Bothell</em>
-: * Dean's List</p>
+: <p style="margin: -5px 0 -20px 0"><strong>University of Washington Bothell ∙ School of STEM</strong><br><em>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</em>
+: GPA: 3.79, Dean's List 2020 - 2021</p>
 
 #### Technical Experience
 
@@ -56,9 +55,7 @@
 
 : * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021</b>: Made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. Group members: Kyle Huang, Bailey Marie, Kyle Huynh, Kyle Fukuda, and Gwen Furiato.</p>
 
-: * <p style="margin-bottom: -20px;"><b>FCC Mini HTML/CSS projects</b>: A collection of my mini projects from freeCodeCamp.</p>
-
-: * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects</b>: A collection of my JavaScript projects that include Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
+: * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects</b>: includes Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
 
 #### Certificates
 
