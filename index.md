@@ -41,21 +41,21 @@
 
 <strong><i>Projects</i></strong>
 
-: * <p style="margin-bottom: -20px;"><b>Portfolio</b>: has my projects, photo gallery, and contact form using Formspree. I used HTML/CSS and Javascript.</p>
+: * <p style="margin-bottom: -20px;"><b>Portfolio:</b> has my projects, photo gallery, and contact form using Formspree. I used HTML/CSS and Javascript for DOM manipulation interaction and local storage.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Bank</b>: Made a Bank program using C++ that allows logins of multiple accounts.</p>
+: * <p style="margin-bottom: -20px;"><b>Bank:</b> made a Bank program using C++ that allows logins of multiple accounts.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Family Business</b>: Designed and developed a static responsive website for a family business using HTML/CSS and JS.</p>
+: * <p style="margin-bottom: -20px;"><b>Family Business:</b> designed and developed a static responsive website for a family business using HTML/CSS and JS.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Weather API</b>: Created a weather app using HTML/CSS, JavaScript, and openweathermap API.</p>
+: * <p style="margin-bottom: -20px;"><b>Weather API:</b> created a weather app using HTML/CSS, JavaScript, and openweathermap API.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Restaurant Order Program</b>: Created an Restaurant Order program using Java OOP.</p>
+: * <p style="margin-bottom: -20px;"><b>Restaurant Order Program:</b> created an Restaurant Order program using Java OOP.</p>
 
-: * <p style="margin-bottom: -20px;"><b>Calculator</b>: Made a calculator using Java GUI that calculates from left to right without order of operations.</p>
+: * <p style="margin-bottom: -20px;"><b>Calculator:</b>: made a calculator using Java GUI that calculates from left to right without order of operations.</p>
 
-: * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021</b>: made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. Experienced teamwork with people of different skillsets.</p>
+: * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021:</b> my group made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. I have gained teamwork experience with people of various skill sets.</p>
 
-: * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects</b>: includes Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
+: * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects:</b> includes Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
 
 #### Certificates
 
