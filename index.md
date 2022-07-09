@@ -54,11 +54,10 @@ Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structur
 <b>Restaurant Order</b> ∙ <i>Java</i>	
 •	an online pickup order program
 •	made a visual text menu of foods and drinks
-•	hands out a receipt and has an option to download it
+•	outputs a receipt and has an option to download it
 <b>Weather Web App</b> ∙ <i>HTML, CSS, JS</i>	
-•	a weather web app that shows the current weather
-•	used openweathermap API to get current weather information
-•	added in an error handler text for location name and utilized local storage to save location
+•	a weather web app that shows the current weather using an API
+•	utilized local storage to save location and added in an error handler for location search
 <b>UWB Hackathon 2021</b> ∙ <i>HTML, CSS, JS, Figma, JQuery</i>
 •	a new version of the old UW course catalog made by my group for front-end
 •	I gained teamwork experience with people of various skill sets
