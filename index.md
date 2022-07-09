@@ -25,7 +25,7 @@
     </div>
 </div>
 
-<p style="margin: -5px 0 -15px 0">CS Student at University of Washington Bothell passionate about programming and cybersecurity.</p>
+<p>CS Student at University of Washington Bothell passionate about programming and cybersecurity.</p>
 
 #### Education
 
@@ -33,38 +33,45 @@
 
 <b><i>2020 - Present</i></b>
 : <p style="margin: -5px 0 -20px 0"><strong>University of Washington Bothell ∙ School of STEM</strong><br><em>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</em>
-: GPA: 3.79, Dean's List 2020 - 2021</p>
+: GPA: 3.79, Dean's List 2020 - 2021
+Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms I</p>
 
 #### Technical Experience
 
-<hr style="background: #0d6288; margin: -15px 0 -15px 0;">
+<hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<strong><i>Projects</i></strong>
-
-: * <p style="margin-bottom: -20px;"><b>Portfolio:</b> has my projects, photo gallery, and contact form using Formspree. I used HTML/CSS and Javascript for DOM manipulation interaction and local storage.</p>
-
-: * <p style="margin-bottom: -20px;"><b>Bank:</b> made a Bank program using C++ that allows logins of multiple accounts.</p>
-
-: * <p style="margin-bottom: -20px;"><b>Family Business:</b> designed and developed a static responsive website for a family business using HTML/CSS and JS.</p>
-
-: * <p style="margin-bottom: -20px;"><b>Weather API:</b> created a weather app using HTML/CSS, JavaScript, and openweathermap API.</p>
-
-: * <p style="margin-bottom: -20px;"><b>Restaurant Order Program:</b> created an Restaurant Order program using Java OOP.</p>
-
-: * <p style="margin-bottom: -20px;"><b>Calculator:</b>: made a calculator using Java GUI that calculates from left to right without order of operations.</p>
-
-: * <p style="margin-bottom: -20px;"><b>UWB Hackathon 2021:</b> my group made an alternative of the course catalog of UW using HTML/CSS, JavaScript/JQuery, and Figma. I have gained teamwork experience with people of various skill sets.</p>
-
-: * <p style="margin-bottom: -20px;"><b>FCC JavaScript projects:</b> includes Roman Numeral Conversion, cash register, palindrome, Caesars cipher, and telephone validator from freeCodeCamp.</p>
+<b>Portfolio Website</b> ∙ <i>HTML, CSS, JS</i>
+•	a responsive website using flex, grid, and JS DOM.
+•	Made a feedback form with embedded API for automated email message 
+•	implemented photo gallery, interactive using JS and used quick sort to sort the photos
+•	used iframe to display my other published projects
+<b>Bank</b> ∙ <i></i>C++			
+•	a banking system using OOP principles
+•	implemented multiple account and create/login/logout functionality
+<b>Calculator App</b> ∙ <i>Java</i>	
+•	a linear calculator app made with JFrame GUI
+•	also supports negatives, factorials, exponent, and modulus
+<b>Restaurant Order</b> ∙ <i>Java</i>	
+•	an online pickup order program
+•	made a visual text menu of foods and drinks
+•	hands out a receipt and has an option to download it
+<b>Weather Web App</b> ∙ <i>HTML, CSS, JS</i>	
+•	a weather web app that shows the current weather
+•	used openweathermap API to get current weather information
+•	added in an error handler text for location name and utilized local storage to save location
+<b>UWB Hackathon 2021</b> ∙ <i>HTML, CSS, JS, Figma, JQuery</i>
+•	a new version of the old UW course catalog made by my group for front-end
+•	I gained teamwork experience with people of various skill sets
+<b>FCC JavaScript projects</b> ∙ <i>JS</i>
+•	a collection of Data Structures & Algorithms mini projects
+•	includes cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
 
 #### Certificates
 
 <hr style="background: #0d6288; margin: -15px 0 -15px 0;">
-<!--<hr style="background: #0d6288; margin: -15px 0 0 0;">-->
 
 September 2020
 : * <p style="margin-bottom: -20px;">Responsive Web Design (freeCodeCamp)</p>
-<!--<p style="margin-bottom: -15px;"><b><em>September 2020</em></b>&ensp;Responsive Web Design (freeCodeCamp)</p>-->
 
 October 2021
 : * <p style="margin-bottom: -20px;">Excel 2016: Introduction to Formulas and Functions (LinkedIn Learning)</p>
@@ -73,9 +80,10 @@ October 2021
 
 December 2021
 : * <p style="margin-bottom: -20px;">Learning React.js (LinkedIn Learning)</p>
-: * <p style="margin-bottom: -20px;">JavaScript Algorithms and Data Structures (freeCodeCamp)</p>
+: * <p>JavaScript Algorithms and Data Structures (freeCodeCamp)</p>
 
 #### Skills
+
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 <p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, JavaScript, Python (some), HTML, CSS, Excel, Git, Linux.
