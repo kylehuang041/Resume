@@ -41,29 +41,29 @@ Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structur
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 <b>Portfolio Website</b> ∙ <i>HTML, CSS, JS</i>
-•	a responsive website using flex, grid, and JS DOM.
-•	Made a feedback form with embedded API for an automated email message 
-•	implemented photo gallery, interactive using JS and used quick sort to sort the photos
-•	used iframe to display my other published projects
+•	created a responsive website using flex, grid, and JS for DOM.
+•	added a feedback form with embedded API for an automated email message 
+•	implemented photo gallery, interactivity using JS and used quick sort to sort the photo files
 <b>Bank</b> ∙ <i></i>C++			
-•	a banking system using OOP principles
-•	implemented multiple account and create/login/logout functionality
+•	built a banking system using OOP principles
+•	implemented create/login/logout functionality for multi-account use
+•   made deposit/withdraw and view account summary and personal info features
 <b>Calculator App</b> ∙ <i>Java</i>	
-•	a linear calculator app made with JFrame GUI
-•	also supports negatives, factorials, exponent, and modulus
+•	created a linear calculator app executable with JFrame GUI
+•	added support for negatives, factorials, exponent, and modulus
 <b>Restaurant Order</b> ∙ <i>Java</i>	
-•	an online pickup order program
+•	programmed an online pickup order program
 •	made a visual text menu of foods and drinks
-•	outputs a receipt and has an option to download it
+•	produced a resume output and an option to download the receipt
 <b>Weather Web App</b> ∙ <i>HTML, CSS, JS</i>	
-•	a weather web app that shows the current weather using an API
-•	utilized local storage to save location and added in an error handler for location search
+•	created a weather web app that shows the current weather using an API
+•	utilized local storage to save location
 <b>UWB Hackathon 2021</b> ∙ <i>HTML, CSS, JS, Figma, JQuery</i>
-•	a new version of the old UW course catalog made by my group for front-end
-•	I gained teamwork experience with people of various skill sets
+•	constructed a new version of the old UW course catalog made by my group for front-end design
+•	gained teamwork experience with people of various skill sets
 <b>FCC JavaScript projects</b> ∙ <i>JS</i>
-•	a collection of Data Structures & Algorithms mini projects
-•	includes a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
+•	completed a collection of FCC Data Structures & Algorithms mini projects
+•	made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
 
 #### Certificates
 
