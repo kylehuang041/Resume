@@ -32,7 +32,7 @@
 <hr style="background: #0d6288; margin: -15px 0 -15px 0;">
 
 <b><i>2020 - Present</i></b>
-: <p style="margin: -5px 0 -20px 0"><strong>University of Washington Bothell ∙ School of STEM</strong><br><em>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</em>
+: <p style="margin: 0 0 -15px 0"><strong>University of Washington Bothell ∙ School of STEM</strong><br><em>Computer Science and Software Engineering: Information Assurance and Cybersecurity (BS)</em>
 : Dean's List 2020 - 2021
 Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms I</p>
 
