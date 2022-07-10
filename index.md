@@ -42,7 +42,7 @@ Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structur
 
 <b>Portfolio Website</b> ∙ <i>HTML, CSS, JS</i>
 •	a responsive website using flex, grid, and JS DOM.
-•	Made a feedback form with embedded API for automated email message 
+•	Made a feedback form with embedded API for an automated email message 
 •	implemented photo gallery, interactive using JS and used quick sort to sort the photos
 •	used iframe to display my other published projects
 <b>Bank</b> ∙ <i></i>C++			
@@ -63,7 +63,7 @@ Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structur
 •	I gained teamwork experience with people of various skill sets
 <b>FCC JavaScript projects</b> ∙ <i>JS</i>
 •	a collection of Data Structures & Algorithms mini projects
-•	includes cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
+•	includes a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
 
 #### Certificates
 
