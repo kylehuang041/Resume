@@ -7,7 +7,8 @@
 <div width="100%" height="100%" style="display: flex; justify-content: space-evenly; align-center: center;">
     <div style="width: 100%; height: 100%; margin-right: 10px; padding: 5px 0 10px 0;">
         <h4 style="text-align: center;">Contact</h4>
-        <span>&#9993;&ensp; <b>Email</b>: <em>kylehuang041@gmail.com</em></span>
+        <span>&#9993;&ensp; <b>Email</b>: <em>kylehuang041@gmail.com</em></span><br>
+        <span>&#127758; <b>Location</b>: <em>Seattle, WA</em></span>
     </div>
     <div style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; padding: 5px 0;">
         <h4 style="text-align: center;">Links</h4>
