@@ -72,11 +72,6 @@ Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structur
 September 2020
 : * <p style="margin-bottom: -20px;">Responsive Web Design (freeCodeCamp)</p>
 
-October 2021
-: * <p style="margin-bottom: -20px;">Excel 2016: Introduction to Formulas and Functions (LinkedIn Learning)</p>
-
-: * <p style="margin-bottom: -20px;">Excel Essential Training (Office 365/Microsoft 365, LinkedIn Learning)</p>
-
 December 2021
 : * <p style="margin-bottom: -20px;">Learning React.js (LinkedIn Learning)</p>
 : * <p>JavaScript Algorithms and Data Structures (freeCodeCamp)</p>
@@ -85,5 +80,5 @@ December 2021
 
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, JavaScript, Python (some), HTML, CSS, Excel, Git, Linux.
+<p style="margin: 0px;"><strong><i>Hard</i></strong>&ensp;Java, C++, JavaScript, HTML, CSS, Git, Linux.
 <p style="margin: 0;"><strong><i>Soft</i></strong>&ensp;Communication, Flexibility, Collaboration</p>
