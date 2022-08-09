@@ -13,11 +13,11 @@
         <h4 style="text-align: center;">Links</h4>
         <div style="display: flex; flex-direction: row; width: 100%;
         height: 100%; justify-content: space-around;">
-            <div style="width: 100%; height: 100%;">
+            <div style="width: 100%; height: 100%; text-align: center;">
                 <a target="_blank" href="https://kylehuang041.github.io/Portfolio/">Portfolio</a><br>
                 <a target="_blank" href="https://github.com/kylehuang041">GitHub</a><br>
             </div>
-            <div style="width: 100%; height: 100%;">
+            <div style="width: 100%; height: 100%; text-align: center;">
                 <a target="_blank" href="https://www.linkedin.com/in/kyle-huang-9492811ba/">LinkedIn</a><br>
                 <a target="_blank" href="https://my.indeed.com/p/kyleh-r7behmb">Indeed</a><br>
             </div>
@@ -36,34 +36,34 @@
 : Dean's List 2020 - 2021
 Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms I</p>
 
-#### Technical Experience
+#### Technical Projects
 
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 <b>Portfolio Website</b> ∙ <i>HTML, CSS, JS</i>
-•	created a responsive website using flex, grid, and JS for DOM.
-•	added a feedback form with embedded API for an automated email message 
+•	Created a responsive website using flex, grid, and JS for DOM.
+•	Added a feedback form with embedded API for an automated email message 
 •	implemented photo gallery, interactivity using JS and used quick sort to sort the photo files
 <b>Bank</b> ∙ <i></i>C++			
-•	built a banking system using OOP principles
-•	implemented create/login/logout functionality for multi-account use
-•   made deposit/withdraw and view account summary and personal info features
+•	Built a banking system using OOP principles
+•	Implemented create/login/logout functionality for multi-account use
+•   Made deposit/withdraw and view account summary and personal info features
 <b>Calculator App</b> ∙ <i>Java</i>	
-•	created a linear calculator app executable with JFrame GUI
-•	added support for negatives, factorials, exponent, and modulus
+•	Created a linear calculator app executable with JFrame GUI
+•	Added support for negatives, factorials, exponent, and modulus
 <b>Restaurant Order</b> ∙ <i>Java</i>	
-•	programmed an online pickup order program
-•	made a visual text menu of foods and drinks
-•	produced a resume output and an option to download the receipt
+•	Programmed an online pickup order program
+•	Made a visual text menu of foods and drinks
+•	Produced a resume output and an option to download the receipt
 <b>Weather Web App</b> ∙ <i>HTML, CSS, JS</i>	
-•	created a weather web app that shows the current weather using an API
-•	utilized local storage to save location
+•	Created a weather web app that shows the current weather using an API
+•	Utilized local storage to save location
 <b>UWB Hackathon 2021</b> ∙ <i>HTML, CSS, JS, Figma, JQuery</i>
-•	constructed a new version of the old UW course catalog made by my group for front-end design
-•	gained teamwork experience with people of various skill sets
+•	Constructed a new version of the old UW course catalog made by my group for front-end design
+•	Gained teamwork experience with people of various skill sets
 <b>FCC JavaScript projects</b> ∙ <i>JS</i>
-•	completed a collection of FCC Data Structures & Algorithms mini projects
-•	made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
+•	Completed a collection of FCC Data Structures & Algorithms mini projects
+•	Made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
 
 #### Certificates
 
