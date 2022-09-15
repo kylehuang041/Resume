@@ -84,12 +84,14 @@ August 2021
 
 <hr style="background: #0d6288; margin: -15px 0 -15px 0;">
 
-September 2020
-: * <p style="margin-bottom: -20px;"><b>Responsive Web Design (freeCodeCamp)</b></p>
+December 2021
+: * <p style="margin-bottom: -20px;">JavaScript Algorithms and Data Structures (freeCodeCamp)</p>
 
 December 2021
 : * <p style="margin-bottom: -20px;">Learning React.js (LinkedIn Learning)</p>
-: * <p>JavaScript Algorithms and Data Structures (freeCodeCamp)</p>
+
+September 2020
+: * <p style="margin-bottom: -20px;"><b>Responsive Web Design (freeCodeCamp)</b></p>
 
 #### Skills
 
