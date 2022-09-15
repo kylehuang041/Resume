@@ -43,29 +43,42 @@ CS Student at University of Washington Bothell passionate in programming and cyb
 
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<b>Portfolio Website</b> ∙ <i>HTML, CSS, JS</i>
-<b>Shortest Path Maze ∙ </b><i>C++</i>
-•	Created a program that reads in multiple maze files outputting the shortest paths
-•	Implemented depth-first search and custom backtracking-like algorithm to calculate, draw out, and handle mazes with empty clusters and rigid designs
-<b>Portfolio Website ∙ </b><i>HTML, CSS, JS</i>
-•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated contact email
-•	Used flex, grid, and JS for DOM manipulation for responsive design and quick sort for files and links for project display and photo gallery
-<b>Bank ∙ </b><i>C++</i>
+May 2022
+: * <b>Shortest Path Maze ∙ </b><i>C++</i>
+•	Created a program that reads in multiple maze files outputting the visual shortest paths
+•	Implemented depth-first search to calculate and custom backtracking-like algorithm to draw the path
+•	Resulted in all tests passed including mazes with empty clusters and rigid designs
+
+February 2022
+: * <b>Bank ∙ </b><i>C++</i>
 •	Built a banking system using OOP principles
-•	Implemented create, login and logout features ATM with the use of multiple accounts and deposit, withdraw, and view info for accounts
-<b>Calculator ∙ </b><i>Java</i>
-•	Created a linear calculator desktop app executable made with JFrame GUI
-•	Supported addition, subtraction, division, multiplication, negatives, factorials, exponents, and modulus
-<b>Restaurant Order ∙ </b><i>Java</i>
-•	Made a visual text menu of foods and drinks to choose from for an order
-•	This resulted in a receipt output and an option to download into a text file
-<b>Weather Web App ∙ </b><i>HTML, CSS, JS</i>
-•	Created a weather web app showing the current weather of a specific city
-•	Implemented an API to get the weather info and utilizes local storage to save the user’s location
-<b>FCC JavaScript projects ∙ </b><i>JS</i>
+•	Implemented create, login, and logout features ATM with the use of multiple accounts; deposit, withdraw, and view info for accounts
+
+December 2021
+: * <b>FCC JavaScript projects ∙ </b><i>JS</i>
 •	Completed a collection of data structures & algorithms mini projects from freeCodeCamp
 •	Made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
-•	This resulted in all test cases passed by their automated checker
+•	This resulted in all test cases being passed by their automated checker
+
+December 2021
+: * <b>Calculator ∙ </b><i>Java</i>
+•	Created a linear calculator desktop app executable made with JFrame GUI
+•	Supported addition, subtraction, division, multiplication, negatives, factorials, exponents, and modulus
+
+September 2021
+: * <b>Portfolio Website ∙ </b><i>HTML, CSS, JS</i>
+•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated contact email
+•	Used flex, grid, and JS for DOM manipulation for responsive design and quick sort for files and links for project display and photo gallery
+
+June 2021
+: * <b>Restaurant Order ∙ </b><i>Java</i>
+•	Made a visual text menu of foods and drinks to choose from for an order
+•	This resulted in a receipt output and an option to download into a text file
+
+August 2021
+: * <b>Weather Web App ∙ </b><i>HTML, CSS, JS</i>
+•	Created a weather web app showing the current weather of a specific city
+•	Implemented an API to get the weather info and utilizes local storage to save the user’s location
 
 #### Certificates
 
@@ -82,7 +95,7 @@ December 2021
 
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-<p style="margin: 0px;"><strong>Programming Languages:</strong>&ensp;Java, C++, JavaScript</p>
-<p style="margin: 0px;"><strong>Web Dev: </strong>&ensp;HTML, CSS, Git, Linux.</p>
-<p style="margin: 0px;"><strong>Technologies: </strong>&ensp;Git, Linux.</p>
+<p style="margin: 0px;"><strong>Programming Languages:</strong>&ensp;Java, C++, JavaScript, SQL</p>
+<p style="margin: 0px;"><strong>Web Dev: </strong>&ensp;HTML, CSS, MySQL</p>
+<p style="margin: 0px;"><strong>Technologies: </strong>&ensp;Git, GitHub, Linux, VS Code</p>
 <p style="margin: 0;"><strong>Soft:</strong>&ensp;Communication, Flexibility, Collaboration</p>
