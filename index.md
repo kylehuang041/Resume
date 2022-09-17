@@ -44,41 +44,41 @@ CS Student at University of Washington Bothell passionate in programming and cyb
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 May 2022
-: * <b>Shortest Path Maze ∙ </b><i>C++</i>
+: * <b>Shortest Path Maze Solver ∙ </b><i>C++</i>
 •	Created a program that reads in multiple maze files outputting the visual shortest paths
-•	Implemented depth-first search to calculate and custom backtracking-like algorithm to draw the path
+•	Implemented depth-first search to calculate and custom backtracking-like algorithm to draw the paths
 •	Resulted in all tests passed including mazes with empty clusters and rigid designs
 
 February 2022
 : * <b>Bank ∙ </b><i>C++</i>
-•	Built a banking system using OOP principles
+•	Built a bank ATM program using OOP principles
 •	Implemented create, login, and logout features ATM with the use of multiple accounts; deposit, withdraw, and view info for accounts
 
 December 2021
-: * <b>FCC JavaScript projects ∙ </b><i>JS</i>
+: * <b>FCC JavaScript Projects ∙ </b><i>JS</i>
 •	Completed a collection of data structures & algorithms mini projects from freeCodeCamp
 •	Made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
 •	This resulted in all test cases being passed by their automated checker
 
 December 2021
-: * <b>Calculator ∙ </b><i>Java</i>
-•	Created a linear calculator desktop app executable made with JFrame GUI
-•	Supported addition, subtraction, division, multiplication, negatives, factorials, exponents, and modulus
+: * <b>Calculator App ∙ </b><i>Java</i>
+•	Created a linear desktop calculator app made with JFrame GUI
+•	Supported addition, subtraction, division, multiplication, negative, factorial, exponent, and modulus
 
 September 2021
 : * <b>Portfolio Website ∙ </b><i>HTML, CSS, JS</i>
-•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated contact email
-•	Used flex, grid, and JS for DOM manipulation for responsive design and quick sort for files and links for project display and photo gallery
-
-June 2021
-: * <b>Restaurant Order ∙ </b><i>Java</i>
-•	Made a visual text menu of foods and drinks to choose from for an order
-•	This resulted in a receipt output and an option to download into a text file
+•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated email messenger
+•	Used flex, grid, and JS DOM manipulation for responsive design and quick sort for files and links for project display and photo gallery
 
 August 2021
 : * <b>Weather Web App ∙ </b><i>HTML, CSS, JS</i>
-•	Created a weather web app showing the current weather of a specific city
+•	Created an app for showing the current weather of a specific city
 •	Implemented an API to get the weather info and utilizes local storage to save the user’s location
+
+June 2021
+: * <b>Restaurant Order ∙ </b><i>Java</i>
+•	Made a restaurant order program: visual text menu of foods and drinks to choose from for an order
+•	This resulted in a receipt output and an option to download into a text file
 
 #### Certificates
 
@@ -91,7 +91,7 @@ December 2021
 : * <p style="margin-bottom: -20px;">Learning React.js (LinkedIn Learning)</p>
 
 September 2020
-: * <p style="margin-bottom: -20px;"><b>Responsive Web Design (freeCodeCamp)</b></p>
+: * <p style="margin-bottom: -20px;">Responsive Web Design (freeCodeCamp)</p>
 
 #### Skills
 
