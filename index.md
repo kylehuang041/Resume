@@ -38,7 +38,7 @@ CS Student at University of Washington Bothell passionate in programming and cyb
 •	University of Washington Bothell ∙ School of STEM<br>
 •	GPA: 3.71<br>
 •	Dean's List: 2020-2021, Spring 2022<br>
-•	Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms, Techincal Writing for Computing Professionals, Information Assurance and Cybersecurity, Computer Programming, Web Programming, Analysis and Design, Network Design and Programming
+•	Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms, Technical Writing for Computing Professionals, Information Assurance and Cybersecurity, Computer Programming, Web Programming, Analysis and Design, Network Design and Programming
 
 #### Technical Projects
 
