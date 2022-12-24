@@ -36,7 +36,7 @@ CS Student at University of Washington Bothell passionate in programming and cyb
 <p style="margin: -20px 0 -30px 0; text-align: right;"><i>September 2020 - Expected, August 2024</i></p><br>
 <strong>Bachelors in Science in Computer Science and Software Engineering: Information Assurance and Cybersecurity</strong><br>
 •	University of Washington Bothell ∙ School of STEM<br>
-•	GPA: 3.71
+•	GPA: 3.71<br>
 •	Dean's List: 2020-2021, Spring 2022<br>
 •	Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms, Techincal Writing for Computing Professionals, Information Assurance and Cybersecurity, Computer Programming, Web Programming, Analysis and Design, Network Design and Programming
 
