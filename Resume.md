@@ -45,7 +45,7 @@ CS student at University of Washington Bothell passionate in programming and cyb
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 `<strong>`BlogIt `</strong>` ∙ `<em>`HTML, CSS, JS, NodeJS, REST API, SQLite, ThunderClient `</em>` ∙ December 2022
-•	Created a fullstack blog webpage to manage digital notes/blogs
+•	Created a fullstack blog webpage to manage notes/blogs
 •	Built BlogIt REST API to converse with the database through node web service
 •	Written, tested, and debugged both client and server completely and accurately
 
