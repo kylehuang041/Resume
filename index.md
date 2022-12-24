@@ -19,7 +19,7 @@
                 <a target="_blank" href="https://github.com/kylehuang041">GitHub</a><br>
             </div>
             <div style="width: 100%; height: 100%; text-align: center;">
-                <a target="_blank" href="https://www.linkedin.com/in/kyle-huang-9492811ba/">LinkedIn</a><br>
+                <a target="_blank" href="https://www.linkedin.com/in/kyle-h/">LinkedIn</a><br>
                 <a target="_blank" href="https://my.indeed.com/p/kyleh-r7behmb">Indeed</a><br>
             </div>
         </div>
@@ -36,49 +36,43 @@ CS Student at University of Washington Bothell passionate in programming and cyb
 <p style="margin: -20px 0 -30px 0; text-align: right;"><i>September 2020 - Expected, August 2024</i></p><br>
 <strong>Bachelors in Science in Computer Science and Software Engineering: Information Assurance and Cybersecurity</strong><br>
 •	University of Washington Bothell ∙ School of STEM<br>
-•	Dean's List 2020 - 2021<br>
-•	Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms, Techincal Writing for Computing Professionals, Information Assurance and Cybersecurity
+•	Dean's List: 2020-2021, Spring 2022<br>
+•	Relevant Coursework: Intro to Cybersecurity, Software Engineering, Data Structures and Algorithms, Techincal Writing for Computing Professionals, Information Assurance and Cybersecurity, Computer Programming, Web Programming, Analysis and Design, Network Design and Programming
 
 #### Technical Projects
 
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
-May 2022
-: * <b>Shortest Path Maze Solver ∙ </b><i>C++</i>
+<strong>BlogIt</strong> ∙ <em>HTML, CSS, JS, NodeJS, REST API, SQLite, ThunderClient</em> ∙ December 2022
+•	Created a fullstack blog webpage to manage digital notes/blogs
+•	Built BlogIt REST API to converse with the database through node web service
+•	Written, tested, and debugged both client and server completely and accurately
+
+<strong>Shortest Path Maze Solver</strong> ∙ C++ ∙ May 2022
 •	Created a program that reads in multiple maze files outputting the visual shortest paths
 •	Implemented depth-first search to calculate and custom backtracking-like algorithm to draw the paths
-•	Resulted in all tests passed including mazes with empty clusters and rigid designs
+•	Resulted in 100% tests passed including mazes with empty clusters and rigid designs
 
-February 2022
-: * <b>Bank ∙ </b><i>C++</i>
+<strong>Bank</strong> ∙ <em>C++</em> ∙ February 2022
 •	Built a bank ATM program using OOP principles
 •	Implemented create, login, and logout features ATM with the use of multiple accounts; deposit, withdraw, and view info for accounts
 
-December 2021
-: * <b>FCC JavaScript Projects ∙ </b><i>JS</i>
-•	Completed a collection of data structures & algorithms mini projects from freeCodeCamp
-•	Made a cash register, palindrome, roman numeral converter, ROT13 Caesar cipher, and telephone number validator
-•	This resulted in all test cases being passed by their automated checker
+<strong>Calculator App</strong> ∙ <em>Java</em> ∙ December 2021
+•	Created a desktop calculator app made with JFrame GUI
+•	Made to be calculated linearly
 
-December 2021
-: * <b>Calculator App ∙ </b><i>Java</i>
-•	Created a linear desktop calculator app made with JFrame GUI
-•	Supported addition, subtraction, division, multiplication, negative, factorial, exponent, and modulus
+<strong>Portfolio Website</strong> ∙ <em>HTML, CSS, JS</em> ∙ September 2021
+•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated email messenger embedded API
+•	Used flex, grid, and JS DOM manipulation for responsive design and quick sorting of files and links for project display and photo gallery
 
-September 2021
-: * <b>Portfolio Website ∙ </b><i>HTML, CSS, JS</i>
-•	Developed my portfolio responsive website: photo gallery, other published projects, and an automated email messenger
-•	Used flex, grid, and JS DOM manipulation for responsive design and quick sort for files and links for project display and photo gallery
-
-August 2021
-: * <b>Weather Web App ∙ </b><i>HTML, CSS, JS</i>
+<strong>Weather App</strong> ∙ <em>HTML, CSS, JS</em> ∙ August 2021
 •	Created an app for showing the current weather of a specific city
-•	Implemented an API to get the weather info and utilizes local storage to save the user’s location
+•	Implemented an API to get the weather info and utilized local storage to save the user’s location
 
-June 2021
-: * <b>Restaurant Order ∙ </b><i>Java</i>
-•	Made a restaurant order program: visual text menu of foods and drinks to choose from for an order
-•	This resulted in a receipt output and an option to download into a text file
+<strong>Restaurant Order</strong> ∙ <em>Java</em> ∙ June 2021
+•	Made a restaurant order program: a visual text menu of foods and drinks to choose from for an order
+•	Resulted in a receipt output and an option to download into a text file
+
 
 #### Certificates
 
@@ -98,6 +92,6 @@ September 2020
 <hr style="background: #0d6288; margin: -15px 0 5px 0;">
 
 <p style="margin: 0px;"><strong>Programming Languages:</strong>&ensp;Java, C++, JavaScript, SQL</p>
-<p style="margin: 0px;"><strong>Web Dev: </strong>&ensp;HTML, CSS, MySQL</p>
-<p style="margin: 0px;"><strong>Technologies: </strong>&ensp;Git, GitHub, Linux, VS Code</p>
+<p style="margin: 0px;"><strong>Web Dev: </strong>&ensp;HTML, CSS, MySQL, MySQLite, NodeJS, Thunder Client, Postman API</p>
+<p style="margin: 0px;"><strong>Technologies: </strong>&ensp;Git, GitHub, Linux, VS Code, Excel</p>
 <p style="margin: 0;"><strong>Soft:</strong>&ensp;Communication, Flexibility, Collaboration</p>
